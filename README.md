@@ -4,6 +4,10 @@
 
 Este proyecto tiene como objetivo analizar los datos de pacientes sometidos a biopsia prostática en un importante hospital. Se busca identificar las características más importantes de los pacientes que terminan hospitalizados debido a complicaciones infecciosas dentro de los 30 días posteriores al procedimiento. Para ello, se ha desarrollado un modelo predictivo utilizando regresión logística.
 
+- **Rammer Gomez**
+- **Rammer@rammerbot.com**
+- **[LinkedIn](https://www.linkedin.com/in/rammer-gomez/)**
+
 ## Descripción de los Análisis y Procedimientos
 
 ### 1. Exploración y Preparación de los Datos (EDA y ETL)
