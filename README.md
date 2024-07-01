@@ -4,6 +4,19 @@
 
 Este proyecto tiene como objetivo analizar los datos de pacientes sometidos a biopsia prostática en un importante hospital. Se busca identificar las características más importantes de los pacientes que terminan hospitalizados debido a complicaciones infecciosas dentro de los 30 días posteriores al procedimiento. Para ello, se ha desarrollado un modelo predictivo utilizando regresión logística.
 
+### conclusion:
+
+<p>El modelo de regresión logística implementado permitió identificar las características más relevantes asociadas a la hospitalización post biopsia prostática. La precisión del modelo fue evaluada y se presentaron métricas clave como la matriz de confusión y el informe de clasificación. Este análisis proporciona una base sólida para la toma de decisiones en la atención y seguimiento de pacientes sometidos a biopsia prostática tomando en cuenta las siguientes caracteristicas:</p>
+<ul>
+    <li>BIOPSIA</li>
+    <li>NUMERO DE DIAS POST BIOPSIA EN QUE SE PRESENTA LA COMPLICACIÓN INFECCIOSA </li>
+    <li>FIEBRE</li>
+    <li>ITU</li>
+    <li>TIPO DE CULTIVO</li>
+    <li>AGENTE AISLADO</li>
+    <li>PATRON DE RESISTENCIA</li>
+ </ul>
+
 - **Rammer Gomez**
 - **Rammer@rammerbot.com**
 - **[LinkedIn](https://www.linkedin.com/in/rammer-gomez/)**
@@ -332,15 +345,4 @@ matriz
 
 > Como se puede evaluar el modelo tiene un excelente comportamiento, en la evaluacion de los datos que no conoce ha acertado en todas las prediciones.
 
-### conclusion:
 
-<p>El modelo de regresión logística implementado permitió identificar las características más relevantes asociadas a la hospitalización post biopsia prostática. La precisión del modelo fue evaluada y se presentaron métricas clave como la matriz de confusión y el informe de clasificación. Este análisis proporciona una base sólida para la toma de decisiones en la atención y seguimiento de pacientes sometidos a biopsia prostática tomando en cuenta las siguientes caracteristicas:</p>
-<ul>
-    <li>BIOPSIA</li>
-    <li>NUMERO DE DIAS POST BIOPSIA EN QUE SE PRESENTA LA COMPLICACIÓN INFECCIOSA </li>
-    <li>FIEBRE</li>
-    <li>ITU</li>
-    <li>TIPO DE CULTIVO</li>
-    <li>AGENTE AISLADO</li>
-    <li>PATRON DE RESISTENCIA</li>
- </ul>
